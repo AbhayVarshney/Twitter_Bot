@@ -1,2 +1,2 @@
 # Twitter_Bot
-Twitter Bot. SCU project.
+Smart Twitter Bot using AI. SCU project.
